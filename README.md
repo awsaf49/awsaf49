@@ -13,7 +13,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 4. 46th  at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
 5. 246th at [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 
-### Kaggle Notebooks 📔:
+### Kaggle Notebooks 📒:
 * [VinBigData-CXR-AD YOLOv5 14 Class [train]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData-CXR-AD YOLOv5 14 Class [Infer]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData 🌟2 Class Filter🌟](https://www.kaggle.com/awsaf49/vinbigdata-2-class-filter)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
