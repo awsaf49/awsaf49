@@ -7,6 +7,13 @@ Whenever I'm free I would like spend my time for myself and my family because at
 1. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
 2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
+### Competitions:
+1. 1st   at [DhakaAI 2020](https://dhaka-ai.com)
+2. 2nd   at [VIP CUP 2020](https://sites.google.com/view/icip2020/icip2020)
+3. 25th  at [NFL Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
+4. 46th  at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
+5. 246th at [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+
 
 
 
