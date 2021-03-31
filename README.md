@@ -6,7 +6,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 1. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
 2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
-### Competitions 💻:
+### Competitions 🏆 :
 1. 1st   at [DhakaAI 2020](https://dhaka-ai.com)
 2. 2nd   at [VIP CUP 2020](https://sites.google.com/view/icip2020/icip2020)
 3. 25th  at [NFL Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
