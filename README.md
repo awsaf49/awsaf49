@@ -14,8 +14,11 @@ Whenever I'm free I would like spend my time for myself and my family because at
 4. 46th  at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
 5. 246th at [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 
+### Kaggle Notebooks:
+* [VinBigData-CXR-AD YOLOv5 14 Class [train]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [VinBigData-CXR-AD YOLOv5 14 Class [Infer]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [VinBigData 🌟2 Class Filter🌟](https://www.kaggle.com/awsaf49/vinbigdata-2-class-filter)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [[Xgboost] Tabular Data ML[CV:.86 LB:.787]](https://www.kaggle.com/awsaf49/xgboost-tabular-data-ml-cv-85-lb-787)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 
-
-
-![](https://www.kaggle.com/static/images/site-logo.png)
+### Kaggle Stats
 ![Kaggle Stat](https://i.ibb.co/d2nyPNg/kaggle-profile.png)
