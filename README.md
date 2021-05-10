@@ -24,4 +24,4 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
 ### Kaggle Stats 📐:
-![Kaggle Stat](https://i.ibb.co/GM7zwcs/kaggle-profile.png)
+![kaggle-stat](https://user-images.githubusercontent.com/36858976/117718114-815b0400-b1fd-11eb-8e2b-fe4fddcbe912.PNG)
