@@ -12,16 +12,21 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 1. 1st   at [Dhaka-AI 2020: Dhaka Traffic Detection](https://www.facebook.com/dhaka.ai.bd/posts/194411675415466?__cft__[0]=AZX9wHwmbXrq2dxLojeHeOF1FQFFUHh0JUG7zVSsDhEWR58jsloLXOYChHXxbVVdfLBC6DSnNGZYUryAocbYnMGmH8fGFtI-aCRwyGIzq1vPcRaZiy2GZqK_VdO4CVGlLo53VKCp1vsvT5XkMQ0L7uZu&__tn__=%2CO%2CP-R)
 2. 2nd   at [IEEE VIP CUP 2020: Real-time vehicle detection and tracking at junction using a fisheye camera](https://sites.google.com/view/icip2020/icip2020)
 3. 25th  at [NFL Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
-4. 46th  at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
-5. 246th at [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+4. 43th  at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
+5. 159th at [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching)
+6. 246th at [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 
 ### Kaggle Notebooks 📒:
 * [VinBigData-CXR-AD YOLOv5 14 Class [train]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData-CXR-AD YOLOv5 14 Class [Infer]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData 🌟2 Class Filter🌟](https://www.kaggle.com/awsaf49/vinbigdata-2-class-filter)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [SETI-BL: TF Starter TPU 🚀](https://www.kaggle.com/awsaf49/seti-bl-tf-starter-tpu) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [[Xgboost] Tabular Data ML[CV:.86 LB:.787]](https://www.kaggle.com/awsaf49/xgboost-tabular-data-ml-cv-85-lb-787)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [SIIM-COVID-19: EffNetB6 Study-Level [infer]🩺](https://www.kaggle.com/awsaf49/siim-covid-19-effnetb6-study-level-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="20" height="20"/>
+* [SETI-BL: Spatial Info [TF|TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="20" height="20"/>
 * [EfficientNetB6 512 CutMixUpDropout TPU [Train]](https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
 ### Kaggle Stats 📐:
-![kaggle-stat](https://user-images.githubusercontent.com/36858976/117718114-815b0400-b1fd-11eb-8e2b-fe4fddcbe912.PNG)
+![kaggle-stat](https://user-images.githubusercontent.com/36858976/119826411-ce3b1c00-bf19-11eb-9fa7-e32b8f58b24b.png)
+
