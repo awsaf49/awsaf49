@@ -1,5 +1,5 @@
 ### Welcome
-![](https://cdn.app.compendium.com/uploads/user/a7c086f7-9adb-4d2c-90fa-e26177af8317/c2dea8f7-8c26-44de-ae5f-5dc019485c8c/Image/60691dbc9e7de7390b93ea5284177459/data_analytics_banner.png)
+<img src="https://cdn.app.compendium.com/uploads/user/a7c086f7-9adb-4d2c-90fa-e26177af8317/c2dea8f7-8c26-44de-ae5f-5dc019485c8c/Image/60691dbc9e7de7390b93ea5284177459/data_analytics_banner.png" height="200" width="1000"></img>
 
 ### Hello There 👋
 I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently, I'm studying **Electrical and Electronics Engineering**, I'm passionate about **Data Science and Deep Learning**. I've also contributed to real-life research works where I've been able to apply the knowledge of **Deep Learning** mostly on **Medical Images(X-ray, MRI, CT Scan)**. Two of my works already have been published. I also love to put my knowledge of Deep Learning onto the test while participating in a Data Science competition where I get to use **Deep Learning** in a competitive environment(**Kaggle, Data-Driven, Grand Challenge, etc**). I'm also very fond of **Signal Processing** where I can get to know how **Deep Learning** models work under the hood. I love to work a problem, make my hand dirty by coding and do analysis afterward. 
