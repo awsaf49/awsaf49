@@ -23,7 +23,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [SETI-BL: TF Starter TPU 🚀](https://www.kaggle.com/awsaf49/seti-bl-tf-starter-tpu) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [[Xgboost] Tabular Data ML[CV:.86 LB:.787]](https://www.kaggle.com/awsaf49/xgboost-tabular-data-ml-cv-85-lb-787)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [SIIM-COVID-19: EffNetB6 Study-Level [infer]🩺](https://www.kaggle.com/awsaf49/siim-covid-19-effnetb6-study-level-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="20" height="20"/>
-* [SETI-BL: Spatial Info [TF|TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="20" height="20"/>
+* [SETI-BL: Spatial Info [TF TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="20" height="20"/>
 * [EfficientNetB6 512 CutMixUpDropout TPU [Train]](https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
