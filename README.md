@@ -7,9 +7,9 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 
 ### Competitions 🏆 :
 * 1st   at [Dhaka-AI 2020: Dhaka Traffic Detection](https://www.facebook.com/dhaka.ai.bd/posts/194411675415466?__cft__[0]=AZX9wHwmbXrq2dxLojeHeOF1FQFFUHh0JUG7zVSsDhEWR58jsloLXOYChHXxbVVdfLBC6DSnNGZYUryAocbYnMGmH8fGFtI-aCRwyGIzq1vPcRaZiy2GZqK_VdO4CVGlLo53VKCp1vsvT5XkMQ0L7uZu&__tn__=%2CO%2CP-R)
+* 1st (**student-team**) & 4th (**global-rank**)   at [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)
 * 1st   at [IEEE VIP Cup 2021: Privacy-Preserving In-Bed Human Pose Estimation](https://competitions.codalab.org/competitions/31489#results)(test1)
 * 2nd   at [IEEE VIP CUP 2020: Real-time vehicle detection and tracking at junction using a fisheye camera](https://sites.google.com/view/icip2020/icip2020)
-* 4th   at [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)
 * 25th  at [NFL Impact Detection](https://www.kaggle.com/c/nfl-impact-detection)
 * 29th  at [BirdCLEF 2021 - Birdcall Identification](https://www.kaggle.com/c/birdclef-2021)
 * 43th  at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
