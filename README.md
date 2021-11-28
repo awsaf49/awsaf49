@@ -28,7 +28,8 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [EfficientNetB6 512 CutMixUpDropout TPU [Train]](https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
-### Kaggle Stats 📐:
+### Kaggle Stats 📐: 
+![awsaf49](https://road-to-kaggle-grandmaster.vercel.app/api/simple/awsaf49)
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/dataset/light" />
