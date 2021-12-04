@@ -6,6 +6,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
 ### Competitions 🏆 :
+* 1st (**Jointly**) at [KaggleDays x ZbyHP Championship Meetup in Shanghai](https://www.kaggle.com/c/dont-stop-until-you-drop/leaderboard)
 * 1st   at [Deep Chimpact: Depth Estimation for Wildlife Conservation ](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation)
 * 1st   at [Dhaka-AI 2020: Dhaka Traffic Detection](https://www.facebook.com/dhaka.ai.bd/posts/194411675415466?__cft__[0]=AZX9wHwmbXrq2dxLojeHeOF1FQFFUHh0JUG7zVSsDhEWR58jsloLXOYChHXxbVVdfLBC6DSnNGZYUryAocbYnMGmH8fGFtI-aCRwyGIzq1vPcRaZiy2GZqK_VdO4CVGlLo53VKCp1vsvT5XkMQ0L7uZu&__tn__=%2CO%2CP-R)
 * 1st (**student-team**) & 4th (**global-rank**)   at [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)
