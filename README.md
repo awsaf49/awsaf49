@@ -38,4 +38,6 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/discussion/light" />
 </p>
 
+### Github Activity:
+[![Awsaf's github activity graph](https://activity-graph.herokuapp.com/graph?username=awsaf49)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
