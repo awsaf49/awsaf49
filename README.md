@@ -39,5 +39,5 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 </p>
 
 ### Github Activity:
-[![Awsaf's github activity graph](https://activity-graph.herokuapp.com/graph?username=awsaf49)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Awsaf's github activity graph](https://activity-graph.herokuapp.com/graph?username=awsaf49&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
