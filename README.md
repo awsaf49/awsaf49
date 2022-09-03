@@ -5,7 +5,8 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 1. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
 2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
-### Competitions 🏆 :
+### Prizes 🏆 :
+* Winner at [Kaggle ML Research Spotlight: August 2022](https://www.kaggle.com/discussions/general/349817)
 * Winner at [Google OSS Expert Prize: May 2022](https://www.kaggle.com/code/awsaf49/uwmgi-transunet-2-5d-train-tf)
 * 1st at [IEEE Signal Processing Cup 2022: Synthetic Speech Attribution](https://signalprocessingsociety.org/community-involvement/signal-processing-cup)
 * Winner at [Google OSS Expert Prize: Januray 2022](https://www.kaggle.com/general/304323)
