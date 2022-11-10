@@ -6,6 +6,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
 ### Prizes 🏆 :
+* 2nd at [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) (our team **Megatron** outranked all other teams by a great margin but mysteriously we were ranked 2nd, life is not fair afterall; leaderboard [here](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/))
 * Winner at [Kaggle ML Research Spotlight: August 2022](https://www.kaggle.com/discussions/general/349817)
 * Winner at [Google OSS Expert Prize: May 2022](https://www.kaggle.com/code/awsaf49/uwmgi-transunet-2-5d-train-tf)
 * 1st at [IEEE Signal Processing Cup 2022: Synthetic Speech Attribution](https://signalprocessingsociety.org/community-involvement/signal-processing-cup)
