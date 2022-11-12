@@ -2,6 +2,7 @@
 I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently, I'm studying **Electrical and Electronics Engineering**, I'm passionate about **Data Science and Deep Learning**. I've also contributed to real-life research works where I've been able to apply the knowledge of **Deep Learning** mostly on **Computer Vision**. Two of my works already have been published. I also love to put my knowledge of Deep Learning onto the test while participating in a Data Science competition where I get to use **Deep Learning** in a competitive environment(**Kaggle, DrivenData, Grand Challenge, etc**). I'm also very fond of **Signal Processing** where I can get to know how **Deep Learning** models work under the hood. I love to work a problem, make my hand dirty by coding and do analysis afterward. 
 
 ### Publications 📚:
+1. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/)
 1. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
 2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
@@ -21,14 +22,15 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * 43th   at [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection)
 
 ### Kaggle Notebooks 📒:
+* [Great-Barrier-Reef: YOLOv5 [train] 🌊](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [UWMGI: Unet [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-unet-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [UWMGI: 2.5D [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-2-5d-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [Happywhale: Data Distribution 🐋🐬](https://www.kaggle.com/code/awsaf49/happywhale-data-distribution) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData-CXR-AD YOLOv5 14 Class [train]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
-* [VinBigData-CXR-AD YOLOv5 14 Class [Infer]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData 🌟2 Class Filter🌟](https://www.kaggle.com/awsaf49/vinbigdata-2-class-filter)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [SETI-BL: TF Starter TPU 🚀](https://www.kaggle.com/awsaf49/seti-bl-tf-starter-tpu) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [[Xgboost] Tabular Data ML[CV:.86 LB:.787]](https://www.kaggle.com/awsaf49/xgboost-tabular-data-ml-cv-85-lb-787)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
-* [SIIM-COVID-19: EffNetB6 Study-Level [infer]🩺](https://www.kaggle.com/awsaf49/siim-covid-19-effnetb6-study-level-infer)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [SETI-BL: Spatial Info [TF TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
-* [EfficientNetB6 512 CutMixUpDropout TPU [Train]](https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
 ### Kaggle Stats 📐: 
