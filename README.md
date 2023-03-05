@@ -34,18 +34,18 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [SETI-BL: Spatial Info [TF TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
-### Kaggle Stats 📐: 
+<!-- ### Kaggle Stats 📐: 
 ![awsaf49](https://road-to-kaggle-grandmaster.vercel.app/api/simple/awsaf49)
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/dataset/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/discussion/light" />
-</p>
+</p> -->
 
 ### GitHub Stat
 ![Stats](https://github-readme-stats.vercel.app/api?username=awsaf49&show_icons=true&theme=radical)
 
-### Github Activity 🤝:
-![Awsaf's github activity graph](https://activity-graph.herokuapp.com/graph?username=awsaf49&theme=github_dark)
+<!-- ### Github Activity 🤝:
+![Awsaf's github activity graph](https://activity-graph.herokuapp.com/graph?username=awsaf49&theme=github_dark) -->
 
