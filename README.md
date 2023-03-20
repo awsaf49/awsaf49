@@ -2,10 +2,12 @@
 I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently, I'm studying **Electrical and Electronics Engineering**, I'm passionate about **Data Science and Deep Learning**. I've also contributed to real-life research works where I've been able to apply the knowledge of **Deep Learning** mostly on **Computer Vision**. Two of my works already have been published. I also love to put my knowledge of Deep Learning onto the test while participating in a Data Science competition where I get to use **Deep Learning** in a competitive environment(**Kaggle, DrivenData, Grand Challenge, etc**). I'm also very fond of **Signal Processing** where I can get to know how **Deep Learning** models work under the hood. I love to work a problem, make my hand dirty by coding and do analysis afterward. 
 
 ### Publications 📚:
+1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://arxiv.org/abs/2303.02968)
 1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970)
-1. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/)
-1. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
-2. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
+1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672)
+3. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/)
+4. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
+5. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
 ### Prizes 🏆 :
 * Top Scorer at [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) (our team **Megatron** outranked all other teams by a great margin, leaderboard [here](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/))
