@@ -48,6 +48,8 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 ### GitHub Stat
 ![Stats](https://github-readme-stats.vercel.app/api?username=awsaf49&show_icons=true&theme=radical)
 
+[![](https://visitcount.itsvg.in/api?id=awsaf49&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- ### Github Activity 🤝:
 ![Awsaf's github activity graph](https://activity-graph.herokuapp.com/graph?username=awsaf49&theme=github_dark) -->
 
