@@ -28,6 +28,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [Great-Barrier-Reef: YOLOv5 [train] 🌊](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [UWMGI: Unet [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-unet-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [UWMGI: 2.5D [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-2-5d-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
+* [BirdCLEF23: Pretraining is All you Need](https://www.kaggle.com/code/awsaf49/birdclef23-pretraining-is-all-you-need-train/)
 * [Happywhale: Data Distribution 🐋🐬](https://www.kaggle.com/code/awsaf49/happywhale-data-distribution) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData-CXR-AD YOLOv5 14 Class [train]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData 🌟2 Class Filter🌟](https://www.kaggle.com/awsaf49/vinbigdata-2-class-filter)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
