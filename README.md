@@ -28,7 +28,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [Great-Barrier-Reef: YOLOv5 [train] 🌊](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [UWMGI: Unet [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-unet-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [UWMGI: 2.5D [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-2-5d-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
-* [BirdCLEF23: Pretraining is All you Need](https://www.kaggle.com/code/awsaf49/birdclef23-pretraining-is-all-you-need-train/)
+* [BirdCLEF23: Pretraining is All you Need](https://www.kaggle.com/code/awsaf49/birdclef23-pretraining-is-all-you-need-train/) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [Happywhale: Data Distribution 🐋🐬](https://www.kaggle.com/code/awsaf49/happywhale-data-distribution) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData-CXR-AD YOLOv5 14 Class [train]](https://www.kaggle.com/awsaf49/vinbigdata-cxr-ad-yolov5-14-class-train)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [VinBigData 🌟2 Class Filter🌟](https://www.kaggle.com/awsaf49/vinbigdata-2-class-filter)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
@@ -36,6 +36,16 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [[Xgboost] Tabular Data ML[CV:.86 LB:.787]](https://www.kaggle.com/awsaf49/xgboost-tabular-data-ml-cv-85-lb-787)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [SETI-BL: Spatial Info [TF TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
+
+### Academic Projects
+* [EEE 212: Numerical Techniques Laboratory](https://github.com/awsaf49/eee212-numerical-techniques)
+* [EEE 304: Digital Electronics Laboratory](https://github.com/awsaf49/eee304-digital-electronics-lab)
+* [EEE 318: Control System Laboratory](https://github.com/awsaf49/eee318-control-system-lab)
+* [EEE 316: Power Electronics Laboratory](https://github.com/awsaf49/eee316-power-electronics-lab)
+* [EEE 416: Microprocessor Laboratory](https://github.com/awsaf49/eee416-microprocessor-lab)
+* [CSE 452: Computer Networks](https://github.com/awsaf49/cse452-computer-networks)
+* [EEE 438: Wireless Communication Laboratory](https://github.com/awsaf49/eee438-wireless-comm-lab)
+* [EEE 426: Biomedical Signals, Instrument & Measurement Laboratory](https://github.com/awsaf49/eee426-bme)
 
 <!-- ### Kaggle Stats 📐: 
 ![awsaf49](https://road-to-kaggle-grandmaster.vercel.app/api/simple/awsaf49)
