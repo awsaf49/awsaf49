@@ -43,7 +43,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [EEE 318: Control System Laboratory](https://github.com/awsaf49/eee318-control-system-lab)
 * [EEE 316: Power Electronics Laboratory](https://github.com/awsaf49/eee316-power-electronics-lab)
 * [EEE 416: Microprocessor Laboratory](https://github.com/awsaf49/eee416-microprocessor-lab)
-* [CSE 452: Computer Networks](https://github.com/awsaf49/cse452-computer-networks)
+* [CSE 452: Computer Networks Laboratory](https://github.com/awsaf49/cse452-computer-networks)
 * [EEE 438: Wireless Communication Laboratory](https://github.com/awsaf49/eee438-wireless-comm-lab)
 * [EEE 426: Biomedical Signals, Instrument & Measurement Laboratory](https://github.com/awsaf49/eee426-bme)
 
