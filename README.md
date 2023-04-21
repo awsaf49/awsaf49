@@ -9,7 +9,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 4. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
 5. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
-### Prizes 🏆 :
+### Prizes 🏆:
 * Top Scorer at [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) (our team **Megatron** outranked all other teams by a great margin, leaderboard [here](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/))
 * Winner at [Kaggle ML Research Spotlight: August 2022](https://www.kaggle.com/discussions/general/349817)
 * Winner at [Google OSS Expert Prize: May 2022](https://www.kaggle.com/code/awsaf49/uwmgi-transunet-2-5d-train-tf)
@@ -37,7 +37,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * [SETI-BL: Spatial Info [TF TPU] 🚀](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)  <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [What exactly our model is learning?](https://www.kaggle.com/awsaf49/what-exactly-our-model-is-learning)  <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/>
 
-### Academic Projects
+### Academic Projects 🎓:
 * [EEE 212: Numerical Techniques Laboratory](https://github.com/awsaf49/eee212-numerical-techniques)
 * [EEE 304: Digital Electronics Laboratory](https://github.com/awsaf49/eee304-digital-electronics-lab)
 * [EEE 318: Control System Laboratory](https://github.com/awsaf49/eee318-control-system-lab)
