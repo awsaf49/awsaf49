@@ -39,6 +39,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 
 ### Academic Projects 🎓:
 * [EEE 212: Numerical Techniques Laboratory](https://github.com/awsaf49/eee212-numerical-techniques)
+* [EEE 206: Energy Conversion Laboratory](https://github.com/awsaf49/eee206-energy-conversion-lab)
 * [EEE 304: Digital Electronics Laboratory](https://github.com/awsaf49/eee304-digital-electronics-lab)
 * [EEE 318: Control System Laboratory](https://github.com/awsaf49/eee318-control-system-lab)
 * [EEE 316: Power Electronics Laboratory](https://github.com/awsaf49/eee316-power-electronics-lab)
