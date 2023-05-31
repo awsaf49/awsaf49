@@ -10,13 +10,14 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 5. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
 
 ### Awards 🏆:
-* Top Scorer at [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) (Team: **Megatron** ,leaderboard [here](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/))
+* Top Scorer at [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) (Team: **Megatron**, leaderboard [here](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/))
 * Winner at [Kaggle ML Research Spotlight: August 2022](https://www.kaggle.com/discussions/general/349817)
 * Winner at [Google OSS Expert Prize: May 2022](https://www.kaggle.com/code/awsaf49/uwmgi-transunet-2-5d-train-tf)
 * 1st at [IEEE Signal Processing Cup 2022: Synthetic Speech Attribution](https://signalprocessingsociety.org/community-involvement/signal-processing-cup)
 * Winner at [Google OSS Expert Prize: Januray 2022](https://www.kaggle.com/general/304323)
 * 1st (**jointly**) at [KaggleDays x ZbyHP Championship Meetup in Shanghai](https://www.kaggle.com/c/dont-stop-until-you-drop/leaderboard)
 * 1st   at [Deep Chimpact: Depth Estimation for Wildlife Conservation ](https://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation)
+* 1st (**test1**) at [IEEE VIP CUP 2021: Privacy-Preserving In-Bed Human Pose Estimation](https://web.northeastern.edu/ostadabbas/2021/05/06/vip-cup-2021/) (Team: **proletarians2021**, leaderboard [here](https://flic.kr/p/2oEfdGF))
 * 1st   at [Dhaka-AI 2020: Dhaka Traffic Detection](https://www.facebook.com/dhaka.ai.bd/posts/194411675415466?__cft__[0]=AZX9wHwmbXrq2dxLojeHeOF1FQFFUHh0JUG7zVSsDhEWR58jsloLXOYChHXxbVVdfLBC6DSnNGZYUryAocbYnMGmH8fGFtI-aCRwyGIzq1vPcRaZiy2GZqK_VdO4CVGlLo53VKCp1vsvT5XkMQ0L7uZu&__tn__=%2CO%2CP-R)
 * 1st (**student-team**) & 4th (**global-rank**) & Gold Medal <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>   at [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)
 * 2nd    at [IEEE VIP CUP 2020: Real-time vehicle detection and tracking at junction using a fisheye camera](https://signalprocessingsociety.org/community-involvement/vip-cup-2020-icip-2020)
