@@ -12,8 +12,8 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 ### Awards 🏆:
 * 1st (leaderboard) at [IEEE VIP CUP 2022: Synthetic Image Detection Challenge](https://grip-unina.github.io/vipcup2022/) (Team: **Megatron**, leaderboard [here](https://www.flickr.com/photos/196917181@N04/52490008351/in/dateposted-public/))
 * Winner at [Kaggle ML Research Spotlight: August 2022](https://www.kaggle.com/discussions/general/349817)
-* Winner at [Google OSS Expert Prize: June 2022](https://www.kaggle.com/code/awsaf49/fake-speech-detection-conformer-tf/)
-* Winner at [Google OSS Expert Prize: May 2022](https://www.kaggle.com/code/awsaf49/uwmgi-transunet-2-5d-train-tf)
+* Winner at [Google OSS Expert Prize: June 2022](https://www.kaggle.com/discussions/general/334307)
+* Winner at [Google OSS Expert Prize: May 2022](https://www.kaggle.com/discussions/general/328914)
 * 1st at [IEEE Signal Processing Cup 2022: Synthetic Speech Attribution](https://signalprocessingsociety.org/community-involvement/signal-processing-cup)
 * Winner at [Google OSS Expert Prize: Januray 2022](https://www.kaggle.com/general/304323)
 * 1st (**jointly**) at [KaggleDays x ZbyHP Championship Meetup in Shanghai](https://www.kaggle.com/c/dont-stop-until-you-drop/leaderboard)
