@@ -29,6 +29,7 @@ I'm Awsaf. I'm a **Data Science and Deep Learning** enthusiast. Though currently
 * Bronze Medal <img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="20" height="20"/> at [Shopee - Price Match Guarantee](https://www.kaggle.com/competitions/shopee-product-matching)
 
 ### Kaggle Notebooks 📒:
+* [GCViT: Global Context Vision Transformer](https://www.kaggle.com/code/awsaf49/gcvit-global-context-vision-transforme) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [Great-Barrier-Reef: YOLOv5 [train] 🌊](https://www.kaggle.com/code/awsaf49/great-barrier-reef-yolov5-train) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [UWMGI: Unet [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-unet-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
 * [UWMGI: 2.5D [Train] [PyTorch]](https://www.kaggle.com/code/awsaf49/uwmgi-2-5d-train-pytorch) <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="20" height="20"/>
