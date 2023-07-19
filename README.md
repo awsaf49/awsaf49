@@ -54,6 +54,7 @@ These are a few of my notebooks awarded a Gold Medal (<img src="https://www.kagg
 * [EEE 212: Numerical Techniques Laboratory](https://github.com/awsaf49/eee212-numerical-techniques)
 * [EEE 206: Energy Conversion Laboratory](https://github.com/awsaf49/eee206-energy-conversion-lab)
 * [EEE 304: Digital Electronics Laboratory](https://github.com/awsaf49/eee304-digital-electronics-lab)
+* [EEE 310: Communication Systems I Laboratory](https://github.com/awsaf49/eee310-communication-systems-i)
 * [EEE 318: Control System Laboratory](https://github.com/awsaf49/eee318-control-system-lab)
 * [EEE 316: Power Electronics Laboratory](https://github.com/awsaf49/eee316-power-electronics-lab)
 * [EEE 416: Microprocessor Laboratory](https://github.com/awsaf49/eee416-microprocessor-lab)
