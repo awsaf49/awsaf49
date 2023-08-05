@@ -5,7 +5,7 @@ Just like a detective, I find joy in dissecting complex research problems and cr
 
 ## Publications 📚:
 1. Sy-Tra: Depth estimation with Semi-supervised Semantic Symbiosis with Transformer and Dual-Compensating Augmentation (Anonymous Submission)
-1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://arxiv.org/abs/2303.02968)
+1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10206011)
 1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970)
 1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672)
 3. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/)
