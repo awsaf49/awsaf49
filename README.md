@@ -1,7 +1,7 @@
 ### Hello There 👋
 I'm a Deep Learning Researcher and Competitor with over 4 years of experience, particularly in Computer Vision and Audio. My driving force? Making this world a better place with innovation of AI.
 
-Just like a detective, I find joy in dissecting complex research problems and crafting solutions through code, and math. My perseverance has led to the [authorship of 5 papers and co-authorship of 2 more](https://scholar.google.com/citations?user=zrxJCYIAAAAJ). Beyond academia, I thrive in competitions like Kaggle, DrivenData, etc. It's here that I became one of the youngest [Kaggle Grandmasters](https://kaggle.com/awsaf49), peaking at 5th (now 7th) out of 285K participants. I also take pride in open-source contributing on [GitHub](https://github.com/awsaf49), in platforms such as TensorFlow, Keras, HuggingFace, YOLOv5, etc. Presently, I'm working on Visual-Language modeling, Generative AI (Diffusion), and Self & Semi Supervised Learning.
+Just like a detective, I find joy in dissecting complex research problems and crafting solutions through code, and math. My perseverance has led to the [authorship of 5 papers and co-authorship of 2 more](https://scholar.google.com/citations?user=zrxJCYIAAAAJ). Beyond academia, I thrive in competitions like Kaggle, DrivenData, etc. It's here that I became one of the youngest [Kaggle Grandmasters](https://kaggle.com/awsaf49), peaking at 5th (now 8th) out of 285K participants. I also take pride in open-source contributing on [GitHub](https://github.com/awsaf49), in platforms such as TensorFlow, Keras, HuggingFace, YOLOv5, etc. Presently, I'm working on Visual-Language modeling, Generative AI (Diffusion), and Self & Semi Supervised Learning.
 
 ## Publications 📚:
 1. Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation (Accepted to IEEE WACV 2024)
@@ -63,14 +63,14 @@ These are a few of my notebooks awarded a Gold Medal (<img src="https://www.kagg
 * [EEE 438: Wireless Communication Laboratory](https://github.com/awsaf49/eee438-wireless-comm-lab)
 * [EEE 426: Biomedical Signals, Instrument & Measurement Laboratory](https://github.com/awsaf49/eee426-bme)
 
-<!-- ### Kaggle Stats 📐: 
-![awsaf49](https://road-to-kaggle-grandmaster.vercel.app/api/simple/awsaf49)
+### Kaggle Stats 📐: 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/awsaf49"><br>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/discussion/light" />
-</p> -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/awsaf49/dataset/light" />
+</p>
 
 ## GitHub Stat
 ![Stats](https://github-readme-stats.vercel.app/api?username=awsaf49&show_icons=true&theme=radical)
