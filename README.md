@@ -5,12 +5,12 @@ Just like a detective, I find joy in dissecting complex research problems and cr
 
 ## Publications 📚:
 1. Sy-Tra: Depth estimation with Semi-supervised Semantic Symbiosis with Transformer and Dual-Compensating Augmentation (Accept WACV2024)
-1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10206011)
-1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970)
-1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672)
-3. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/)
-4. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!)
-5. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789)
+1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10206011) (IEEE Sensors Journal)
+1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970) (ICIP 2023)
+1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672) (Under Review)
+3. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/) (IEEE EMBC 2022)
+5. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789) (IEEE TAI 2021)
+5. [CovXNet: A multi-dilation convolutional neural network for automatic COVID-19 and other pneumonia detection from chest X-ray images with transferable multi-receptive feature optimization](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302250#!) (Elsevier CBM 2020)
 
 ## Awards, Prizes, & Medals
 
