@@ -4,7 +4,7 @@ I'm a Deep Learning Researcher and Competitor with over 4 years of experience, p
 Just like a detective, I find joy in dissecting complex research problems and crafting solutions through code, and math. My perseverance has led to the [authorship of 5 papers and co-authorship of 2 more](https://scholar.google.com/citations?user=zrxJCYIAAAAJ). Beyond academia, I thrive in competitions like Kaggle, DrivenData, etc. It's here that I became one of the youngest [Kaggle Grandmasters](https://kaggle.com/awsaf49), peaking at 5th (now 7th) out of 285K participants. I also take pride in open-source contributing on [GitHub](https://github.com/awsaf49), in platforms such as TensorFlow, Keras, HuggingFace, YOLOv5, etc. Presently, I'm working on Visual-Language modeling, Generative AI (Diffusion), and Self & Semi Supervised Learning.
 
 ## Publications 📚:
-1. Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation (Accept WACV2024)
+1. Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation (Accepted to IEEE WACV 2024)
 1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10206011) (IEEE Sensors Journal)
 1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970) (ICIP 2023)
 1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672) (Under Review)
