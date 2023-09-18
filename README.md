@@ -1,12 +1,13 @@
 ### Hello There 👋
 I'm a Deep Learning Researcher and Competitor with over 4 years of experience, particularly in Computer Vision and Audio. My driving force? Making this world a better place with innovation of AI.
 
-Just like a detective, I find joy in dissecting complex research problems and crafting solutions through code, and math. My perseverance has led to the [authorship of 5 papers and co-authorship of 2 more](https://scholar.google.com/citations?user=zrxJCYIAAAAJ). Beyond academia, I thrive in competitions like Kaggle, DrivenData, etc. It's here that I became one of the youngest [Kaggle Grandmasters](https://kaggle.com/awsaf49), peaking at 5th (now 8th) out of 285K participants. I also take pride in open-source contributing on [GitHub](https://github.com/awsaf49), in platforms such as TensorFlow, Keras, HuggingFace, YOLOv5, etc. Presently, I'm working on Visual-Language modeling, Generative AI (Diffusion), and Self & Semi Supervised Learning.
+Just like a detective, I find joy in dissecting complex research problems and crafting solutions through code, and math. My perseverance has led to the [authorship of 6 papers and co-authorship of 2 more](https://scholar.google.com/citations?user=zrxJCYIAAAAJ). Beyond academia, I thrive in competitions like Kaggle, DrivenData, etc. It's here that I became one of the youngest [Kaggle Grandmasters](https://kaggle.com/awsaf49), peaking at 5th (now 8th) out of 285K participants. I also take pride in open-source contributing on [GitHub](https://github.com/awsaf49), in platforms such as TensorFlow, Keras, HuggingFace, YOLOv5, etc. Presently, I'm working on Visual-Language modeling, Generative AI (Diffusion), and Self & Semi Supervised Learning.
 
 ## Publications 📚:
 1. [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400) (Accepted to WACV 2024)
 1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10206011) (IEEE Sensors Journal)
 1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970) (ICIP 2023)
+2. [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/abs/2309.08146) (Under Review at ICASSP 2024)
 1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672) (Under Review)
 3. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/) (IEEE EMBC 2022)
 5. [CovSegNet: A Multi Encoder-Decoder Architecture for Improved Lesion Segmentation of COVID-19 Chest CT Scans](https://ieeexplore.ieee.org/document/9378789) (IEEE TAI 2021)
