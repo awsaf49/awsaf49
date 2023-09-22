@@ -52,6 +52,7 @@ These are a few of my notebooks awarded a Gold Medal (<img src="https://www.kagg
 * [Extraterrestrial Signal Detection [Spatial]](https://www.kaggle.com/awsaf49/seti-bl-spatial-info-tf-tpu)
 * [Skin Cancer Detection with Xgboost [GPU]](https://www.kaggle.com/awsaf49/xgboost-tabular-data-ml-cv-85-lb-787) 
 
+<!---
 ## Academic Projects 🎓:
 * [EEE 212: Numerical Techniques Laboratory](https://github.com/awsaf49/eee212-numerical-techniques)
 * [EEE 206: Energy Conversion Laboratory](https://github.com/awsaf49/eee206-energy-conversion-lab)
@@ -63,6 +64,7 @@ These are a few of my notebooks awarded a Gold Medal (<img src="https://www.kagg
 * [CSE 452: Computer Networks Laboratory](https://github.com/awsaf49/cse452-computer-networks)
 * [EEE 438: Wireless Communication Laboratory](https://github.com/awsaf49/eee438-wireless-comm-lab)
 * [EEE 426: Biomedical Signals, Instrument & Measurement Laboratory](https://github.com/awsaf49/eee426-bme)
+-->
 
 ### Kaggle Stats 📐: 
 <p align="center">
