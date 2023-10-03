@@ -6,7 +6,7 @@ Just like a detective, I find joy in dissecting complex research problems and cr
 ## Publications 📚:
 1. [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400) (Accepted to WACV 2024)
 1. [DwinFormer: Dual Window Transformers for End-to-End Monocular Depth Estimation](https://ieeexplore.ieee.org/document/10206011) (IEEE Sensors Journal)
-1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://arxiv.org/abs/2302.11970) (ICIP 2023)
+1. [ArtiFact: A Large-Scale Dataset with Artificial and Factual Images for Generalizable and Robust Synthetic Image Detection](https://ieeexplore.ieee.org/document/10222083) (ICIP 2023)
 2. [Syn-Att: Synthetic Speech Attribution via Semi-Supervised Unknown Multi-Class Ensemble of CNNs](https://arxiv.org/abs/2309.08146) (Under Review at ICASSP 2024)
 1. [CIFF-Net: Contextual Image Feature Fusion for Melanoma Diagnosis](https://arxiv.org/pdf/2303.03672) (Under Review)
 3. [A Deep Learning Scheme for Detecting Atrial Fibrillation Based on Fusion of Raw and Discrete Wavelet Transformed ECG Features](https://ieeexplore.ieee.org/abstract/document/9870829/) (IEEE EMBC 2022)
